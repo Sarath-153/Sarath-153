@@ -1,14 +1,26 @@
 ## Hi there 👋 It's me Sarath T S
 
-Student at K S Rangasamy College of Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [resume](Resume Pic.jpg)                                   
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
-- Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
-- ⚡ Fun fact: I know Japanese.
+🧑‍🎓Student at K S Rangasamy College of Technology                                
+👉I’m a passionate and motivated *Computer Science student* at *K.S.Rangasamy College of Technology* with a strong interest in *Full Stack Development*.  
+I enjoy learning new technologies, solving complex problems, and building projects that make an impact.  
+
+💼 *Seeking Internship Opportunities for part-time within IT domain*  
+🌱 *Currently learning Java with DSA (Data Structures & Algorithms)*  
+💻 *Working on Full Stack Web Development projects*  
+🌟 *Long-term goal:* Contribute to large-scale systems at *FAANG-level companies*  
+
+---
+
+## 🚀 Current Focus  
+
+- 🔭 Building *Full Stack Web Applications*  
+- 👯 Collaborating on *open-source projects*  
+- 🤔 Improving *system design and problem-solving skills*  
+- 💬 Ask me about *Java, Python, HTML, CSS, MySQL, MERN Stack*  
+- 😄 Pronouns: *He / Him*  
+- ⚡ Fun fact: *Every bug fixed is a lesson learned!*
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
+  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarath-t-s-7b3336328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
