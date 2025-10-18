@@ -21,7 +21,7 @@ I enjoy learning new technologies, solving complex problems, and building projec
 - 
 Contact<br>
   <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarath-t-s-7b3336328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/>
-  <br />[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](sarathcseksrct24@gmail.com)
+  <br />[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sarathcseksrct24@gmail.com)
 
 
 ### I code in
