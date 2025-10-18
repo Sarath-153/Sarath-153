@@ -17,10 +17,12 @@ I enjoy learning new technologies, solving complex problems, and building projec
 - 👯 Collaborating on *open-source projects*  
 - 🤔 Improving *system design and problem-solving skills*  
 - 💬 Ask me about *Java, Python, HTML, CSS,*  
-- 😄 Pronouns: *He / Him*  
 - ⚡ Fun fact: *Every bug fixed is a lesson learned!*
-- Social Presence
+- 
+Contact<br>
   <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarath-t-s-7b3336328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/>
+  <br />[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](sarathcseksrct24@gmail.com)
+
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  
